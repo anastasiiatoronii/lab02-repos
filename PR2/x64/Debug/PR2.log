@@ -1,2 +1,3 @@
 ﻿  PR2.cpp
-  PR2.vcxproj -> D:\Student\PR2\x64\Debug\PR2.exe
+D:\Student\PR2\PR2\PR2.cpp(17,5): error C2065: 'z1': undeclared identifier
+D:\Student\PR2\PR2\PR2.cpp(21,24): error C2065: 'z1': undeclared identifier
